@@ -1,0 +1,25 @@
+.root
+{
+	-fx-background-color: black;
+}
+.button  
+{  
+    -fx-background-color:darkslateblue;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+	-fx-border-radius: 5;  
+    -fx-font-size:30;  
+    -fx-pref-height: 100;
+    }
+#SignInButton
+{
+	-fx-pref-width: 200;	
+}
+#SignUpButton
+{
+	-fx-pref-width: 200;	
+}
+#BackButton{
+	-fx-pref-width: 275;	
+}

@@ -1,0 +1,27 @@
+#mypane {
+  -fx-background-image: url("../GuiEngine/images.png");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 500.0 1000.0;
+  -fx-background-position: center;
+  -fx-background-color:transparent;
+}
+#score{
+	-fx-font-size: 50px;
+	-fx-border-color: white;
+	-fx-font-weight: bold;
+}
+#name{
+	-fx-translate-x: 0;
+	-fx-translate-y: -450;
+	-fx-text-fill: blue;
+	-fx-font-size: 40px;
+	-fx-border-color: white;
+	-fx-font-weight: bold;	
+}
+#Button{
+	-fx-translate-x: -100;
+	-fx-translate-y: 350;
+	-fx-background-color: brown;
+	-fx-font-weight: bold;
+	-fx-font-size: 22px;
+}

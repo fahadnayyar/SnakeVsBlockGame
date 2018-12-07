@@ -1,0 +1,48 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#text{
+	-fx-font-weight: bold;
+	-fx-text-fill: aqua;
+	-fx-font-size: 10px;
+}
+#coinprop{
+	-fx-font-weight: bold;
+	-fx-text-fill: aqua;
+	-fx-font-size: 10px;
+}
+#length{
+	-fx-font-weight: bold;
+	-fx-text-fill: aqua;
+	-fx-font-size: 10px;	
+}
+#token{
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+	-fx-background-color:transparent;
+	-fx-background-size: 25px;
+	-fx-pref-width: 100;
+}
+#Button{ 
+	-fx-translate-x: 360;	
+	-fx-translate-y: -375;
+	-fx-background-color: brown;
+	-fx-font-weight: bold;
+	-fx-font-size: 22px;
+}
+#BorderPane{
+	-fx-background-color: black;
+}
+#menuPlay{
+	-fx-background-image: url("../GuiEngine/pause.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+	-fx-background-color:transparent;
+	-fx-background-size: 25px;
+	-fx-pref-width: 100;
+}
+#coin{
+	-fx-background-image: url("../GuiEngine/shield.png");
+	-fx-background-color: transparent;
+	-fx-fill: white;
+	-fx-background-repeat: no-repeat;
+    -fx-background-position: 50% 50%;
+}

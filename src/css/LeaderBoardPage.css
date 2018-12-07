@@ -1,0 +1,95 @@
+#Leaderboard{
+	-fx-translate-x: 0;
+	-fx-translate-y: -300;
+	-fx-font-size: 50px;
+	-fx-font-weight: bold;
+	-fx-text-fill: blue ;
+}
+#Name{
+	-fx-translate-x: 50;
+	-fx-translate-y: -200;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: red ;
+}
+#Rank{
+	-fx-translate-x: -150;
+	-fx-translate-y: -200;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: red ;	
+}
+#Score{
+	-fx-translate-x: -50;
+	-fx-translate-y: -200;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: red ;
+}
+#Date{
+	-fx-translate-x: 150;
+	-fx-translate-y: -200;
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: red ;
+}
+#pane{
+	-fx-background-color: black;
+}
+#rank1{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: -150;
+}
+#rank2{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: -100;
+}
+#rank3{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: -50;
+}
+#rank4{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 0;
+}
+#rank5{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 50;
+}
+#rank6{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 100;
+}
+#rank7{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 150;
+}
+#rank8{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 200;
+}
+#rank9{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 250;
+}
+#rank10{
+	-fx-text-fill:white ;
+	-fx-translate-x: -150;
+	-fx-translate-y: 300;
+}
+#Button{
+	-fx-translate-x: -100;
+	-fx-translate-y: 350;
+	-fx-background-color: brown;
+	-fx-font-weight: bold;
+	-fx-font-size: 22px;
+}

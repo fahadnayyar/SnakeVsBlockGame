@@ -1,0 +1,54 @@
+.root
+{
+	-fx-background-color: black;
+}
+.button  
+{  
+    -fx-background-color:darkslateblue;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+	-fx-border-radius: 5;  
+    -fx-font-size:20;  
+    -fx-pref-height: 50;
+    }
+.label{
+	-fx-font-size: 15;
+	-fx-text-fill: blue;
+}
+#SignInLabel{
+	-fx-font-size: 50;
+	-fx-text-fill: red;
+}
+#SubmitButton
+{
+	-fx-translate-x: 100;
+	-fx-translate-y: 0;
+	-fx-pref-width: 150;	
+}
+#BackButton
+{
+	-fx-translate-y: 100;
+	-fx-translate-x: -100;
+	-fx-pref-width: 150;	
+}
+#UserLabel{
+	-fx-translate-y: 50;
+	-fx-font-size: 30px;
+	-fx-translate-x: -150;
+}
+#PasswordLabel{
+	-fx-translate-y: 50;
+	-fx-font-size: 30px;
+	-fx-translate-x: -150;
+}
+#UserText{
+	-fx-translate-x: 120;
+	-fx-translate-y: -30;
+	-fx-max-width: 200;	
+}
+#PasswordText{
+	-fx-translate-x: 120;
+	-fx-translate-y: -27;
+	-fx-max-width: 200;	
+}

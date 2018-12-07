@@ -1,0 +1,84 @@
+#Speed{
+	-fx-translate-x: -150;
+	-fx-translate-y: -100;
+	-fx-font-size: 40px;
+	-fx-text-fill: blue ;
+}
+#Music{
+	-fx-translate-x: -150;
+	-fx-translate-y: 0;
+	-fx-font-size: 40px;
+	-fx-text-fill: blue ;
+}
+#Sound{
+	-fx-translate-x: -150;
+	-fx-translate-y: 100;
+	-fx-font-size: 40px;
+	-fx-text-fill: blue ;
+}
+#pane{
+	-fx-background-color: black;
+}
+#Slow{
+	-fx-translate-x: -10;
+	-fx-translate-y: -100;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white ;
+}
+#Moderate{
+	-fx-translate-x: 75;
+	-fx-translate-y: -100;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+		-fx-text-fill: white ;
+}
+#Fast{
+	-fx-translate-x: 160;
+	-fx-translate-y: -100;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+		-fx-text-fill: white ;
+}
+#MusicOn{
+	-fx-translate-x: -10;
+	-fx-translate-y: 0;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+		-fx-text-fill: white ;
+}
+#MusicOff{
+	-fx-translate-x: 75;
+	-fx-translate-y: 0;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+		-fx-text-fill: white ;
+}
+#SoundOn{
+	-fx-translate-x: -10;
+	-fx-translate-y: 100;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+		-fx-text-fill: white ;
+}
+#SoundOff{
+	-fx-translate-x: 75;
+	-fx-translate-y: 100;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+		-fx-text-fill: white ;
+}
+#Settings{
+	-fx-translate-x: 0;
+	-fx-translate-y: -300;
+	-fx-font-size: 50px;
+	-fx-font-weight: bold;
+	-fx-text-fill: red ;
+}
+#Button{
+	-fx-translate-x: -100;
+	-fx-translate-y: 350;
+	-fx-background-color: brown;
+	-fx-font-weight: bold;
+	-fx-font-size: 22px;
+}
